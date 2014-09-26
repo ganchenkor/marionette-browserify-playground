@@ -13,7 +13,8 @@
     "deamdify": "^0.1.1",
     "debowerify": "^0.8.1",
     "through": "^2.3.4",
-    "hbsfy": "^2.1.0"
+    "hbsfy": "^2.1.0",
+    "coffeeify": "^0.7.0"
   },
   "dependencies": {
     "backbone": "^1.1.2",
