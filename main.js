@@ -20,10 +20,6 @@ app.on('before:start', function(){
   app.main.show(view);
 });
 
-$(function() {
-  $('nav#menu').mmenu();
-});
-
 app.on('start', function() {
   Backbone.history.start();
   model.set({message: "changed"});
