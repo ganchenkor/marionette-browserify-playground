@@ -1,0 +1,29 @@
+{
+  "name": "jqm",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^5.11.0",
+    "deamdify": "^0.1.1",
+    "debowerify": "^0.8.1",
+    "through": "^2.3.4",
+    "node-underscorify": "0.0.12",
+    "hbsfy": "^2.1.0",
+    "jade": "^1.6.0",
+    "jadeify": "^2.5.1"
+  },
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "jquery": "^2.1.1",
+    "backbone.marionette": "^2.1.0",
+    "handlebars": "^2.0.0-beta.1",
+    "jQuery.mmenu": "git://github.com/ganchenkor/jQuery.mmenu",
+    "jquery-sidr": "git://github.com/artberri/sidr"
+  }
+}

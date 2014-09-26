@@ -1,0 +1,22 @@
+{
+  "name": "jqm",
+  "version": "0.0.0",
+  "authors": [
+    "ganchenkor <romanganchenko@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-mobile": "~1.4.3",
+    "jquery": "~2.1.1",
+    "backbone.babysitter": "~0.1.4",
+    "jQuery.mmenu": "~4.5.5"
+  }
+}
