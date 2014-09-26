@@ -2,5 +2,6 @@ marionette-browserify
 =====================
 DO
 `npm install && bower install `
-to run
+then run
+
 `browserify -t hbsfy main.js bundle.js`
