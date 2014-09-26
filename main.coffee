@@ -1,6 +1,6 @@
 $ = require('jquery')
 Backbone = require('backbone')
-# Backbone.$ = $
+Backbone.$ = $
 Marionette = require('backbone.marionette')
 template = require('./hb.hbs')
 model = new Backbone.Model({message: "hello2"})
