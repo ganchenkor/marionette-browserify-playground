@@ -2,12 +2,7 @@ var $ = require('jquery');
 var Backbone = require('backbone');
 Backbone.$ = $;
 var Marionette = require('backbone.marionette');
-var mmenu = require('jQuery.mmenu');
-// $.mmenu = require('./node_modules/jQuery.mmenu/src/js/umd/jquery.mmenu.umd.all.js');
-// window.mmenu = require('jQuery.mmenu');
 var template = require('./hb.hbs');
-//var template = require('./tmpl.html');
-// var template = require('./jade.jade');
 var model = new Backbone.Model({message: "hello2"});
 
 var app = new Marionette.Application();
