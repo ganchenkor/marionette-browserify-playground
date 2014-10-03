@@ -13,6 +13,7 @@ FOR COFFEE:
 to Run local server:
 
 `npm install http-server -g`
+
 `http-server` in the root of the project
 
 OR
